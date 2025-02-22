@@ -30,7 +30,7 @@
 
 
 ## GitHub Stats  
-![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
+![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&hide_rank=true\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 
 
 <!--
