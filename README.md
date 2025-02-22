@@ -3,25 +3,30 @@
 ## About Me 
 🚀 Software Engineer | 🎮 Game Developer | 🖥️ C++ & C# User | 🌱 Teacher
 
+
 ## Tech Skills
 - Languages: C++, C#, SQL, Java, Python, HTML
 - Tools: GitHub, Cmd Git, Codecks, Jira, Trello, Visual Studio Code/Community, Jetbrains, MySQL Workbench
 - Other Interests: Gaming, Reading, Watching Movies, GPOSING in FFXIV
+
 
 ## Current Project
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
 - __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio : https://github.com/Akane-Nishiwake/Portfolio-Website
 - __Untitled RPG__ -> A game being made in Unity that is inspired by the Shin Megami Tensei series : Website is WIP
 
+
 ## Connect 
 - Portfolio Carrd : https://ajaygitomer.carrd.co
 - LinkedIn : https://www.linkedin.com/in/ajaygitomer/
 
-## GitHub Stats  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake&show_icons=true&theme=github_dark )  
 
 ## Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-Nishiwake\&layout=donut)](https://github.com/Akane-Nishiwake/github-readme-stats)
+
+
+## GitHub Stats  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake&show_icons=true&theme=github_dark )  
 
 
 <!--
