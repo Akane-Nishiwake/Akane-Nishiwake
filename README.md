@@ -30,11 +30,11 @@
 
 
 ## Top Languages  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-Nishiwake\&layout=donut\&theme=github_dark)](https://github.com/Akane-Nishiwake/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-Nishiwake\&layout=donut\&theme=github_dark)](https://github.com/Akane-Nishiwake/github-readme-stats)
 
 
 ## GitHub Stats  
-  ![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage) 
+![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage) 
 
 
 <!--
