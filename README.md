@@ -6,7 +6,9 @@
 
 ## Tech Skills
 - Languages: C++, C#, SQL, Java, Python, HTML
-- Tools: GitHub, Cmd Git, Codecks, Atlassian (Jira | Trello), Visual Studio Code/Community, Jetbrains (PyCharm | DataGrip), MySQL Workbench
+- Version Control System Tools: GitHub, Cmd Git 
+- Project Management Tools: Codecks, Atlassian (Jira | Trello)
+- Programming Tools: Visual Studio Code/Community, Jetbrains (PyCharm | DataGrip), MySQL Workbench
 - Other Interests: Gaming, Reading, Watching Movies, GPOSING in FFXIV
 
 
