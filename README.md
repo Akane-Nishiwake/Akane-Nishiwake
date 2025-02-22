@@ -13,6 +13,7 @@
 
 ## Current Project
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
+  -   - [![Kiss Kiss: Fall in Love](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=ironicVisualNovel2)](https://github.com/Akane-Nishiwake/ironicVisualNovel2) 
 - __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio : https://akane-nishiwake.github.io | [https://github.com/Akane-Nishiwake/Portfolio-Website](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
   - [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io) 
 - __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : Website is WIP
