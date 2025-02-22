@@ -17,7 +17,6 @@
 - Portfolio Carrd : https://ajaygitomer.carrd.co
 - LinkedIn : https://www.linkedin.com/in/ajaygitomer/
 
-## GitHub Stats
 ## GitHub Stats  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake&show_icons=true&theme=github_dark )  
 
