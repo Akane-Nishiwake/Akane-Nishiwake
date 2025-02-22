@@ -1,4 +1,3 @@
-## Hello there
 
 ## About Me 
 🚀 Software Engineer | 🎮 Game Developer | 🖥️ C++ & C# User | 🌱 Teacher
