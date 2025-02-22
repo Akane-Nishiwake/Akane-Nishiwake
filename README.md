@@ -15,7 +15,7 @@
 ## Current Project
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
 - __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio : https://github.com/Akane-Nishiwake/Portfolio-Website
-- __Untitled RPG__ -> A game being made in Unity that is inspired by the Shin Megami Tensei series : Website is WIP
+- __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : Website is WIP
 
 
 ## Connect 
