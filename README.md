@@ -17,11 +17,11 @@
 
 - __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio : https://akane-nishiwake.github.io | [https://github.com/Akane-Nishiwake/Portfolio-Website](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
 
-  [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
+  [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io/&theme=github_dark)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
   
 - __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : https://github.com/Akane-Nishiwake/Untitled-RPG-2025
 
-  [![Untitled RGP 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025)](https://github.com/Akane-Nishiwake/RPG2025)
+  [![Untitled RGP 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025/&theme=github_dark)](https://github.com/Akane-Nishiwake/RPG2025)
 
 
 ## Connect 
@@ -30,11 +30,11 @@
 
 
 ## Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-Nishiwake\&layout=donut)](https://github.com/Akane-Nishiwake/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akane-Nishiwake\&layout=donut\&theme=github_dark)](https://github.com/Akane-Nishiwake/github-readme-stats)
 
 
 ## GitHub Stats  
-![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage) 
+![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage) 
 
 
 <!--
