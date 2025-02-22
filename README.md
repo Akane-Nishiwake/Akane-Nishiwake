@@ -16,7 +16,8 @@
   - Private Repository
 - __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio : https://akane-nishiwake.github.io | [https://github.com/Akane-Nishiwake/Portfolio-Website](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
   - [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io) 
-- __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : Website is WIP
+- __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : https://github.com/Akane-Nishiwake/Untitled-RPG-2025
+  - [![Untitled RPG](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Untitled-RPG-2025)](https://github.com/Akane-Nishiwake/Untitled-RPG-2025) 
 
 
 ## Connect 
@@ -29,7 +30,7 @@
 
 
 ## GitHub Stats  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake&show_icons=true&theme=github_dark )  
+![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 
 
 <!--
