@@ -15,11 +15,11 @@
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
   - Private Repository
 
-- __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio : https://akane-nishiwake.github.io | [https://github.com/Akane-Nishiwake/Portfolio-Website](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
+- __Portfolio Website__ -> Just me making a more customized experience for my visual portfolio :
 
   [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io\&theme=github_dark)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
   
-- __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : https://github.com/Akane-Nishiwake/Untitled-RPG-2025
+- __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : 
 
   [![Untitled RGP 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark)](https://github.com/Akane-Nishiwake/RPG2025)
 
