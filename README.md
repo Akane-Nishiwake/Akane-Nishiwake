@@ -15,9 +15,8 @@
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
   - Private Repository
   
-- __Untitled RPG__ -> A game built in Unity that is inspired by the Shin Megami Tensei series : 
-
-  [![Untitled RGP 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark)](https://github.com/Akane-Nishiwake/RPG2025)
+- __JSON Skill Tree Converter__ -> A application that will convert a json file with specific tags into a skill tree.
+  - Private Repository
 
 ## Projects Completed 2025
 
