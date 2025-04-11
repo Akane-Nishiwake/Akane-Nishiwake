@@ -15,8 +15,9 @@
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
   - Private Repository
   
-- __JSON Skill Tree Converter__ -> A application that will convert a json file with specific tags into a skill tree.
+- __JSON Skill Tree Converter__ -> A application that will convert a JSON file with specific tags into a skill tree.
   - Private Repository
+  - Currently is built with Java Swing and integrates a JFX window to preview a mermaid chart that is based on the JSON taken in
 
 ## Projects Completed 2025
 
