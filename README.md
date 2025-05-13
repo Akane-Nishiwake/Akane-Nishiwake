@@ -1,6 +1,6 @@
 
 ## About Me 
-🚀 Software Engineer | 🎮 Game Developer | 🖥️ C++ & C# User | 🌱 Teacher
+🖥️ C++ | 🌱 Teacher
 
 ## Connect 
 - LinkedIn : https://www.linkedin.com/in/ajaygitomer/
