@@ -15,9 +15,6 @@
 - __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
   - Private Repository
   
-- __JSON Skill Tree Converter__ -> A application that will convert a JSON file with specific tags into a skill tree.
-  - Private Repository
-  - Currently is built with Java Swing and integrates a JFX window to preview a mermaid chart that is based on the JSON taken in
 
 ## Projects Completed 2025
 
@@ -25,8 +22,8 @@
 
   [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io\&theme=github_dark)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
 
--__JSON_Skill_Tree_Creator__ -> Application takes in FFXVI skill tree and outputs it as a diagram. Was made as a tech demo to convert JSON into a skill tree. 
-  [![JSON_Skill_Tree_Creator](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=JSON_Skill_Tree_Creator\&theme=github_dark)](https://github.com/Akane-Nishiwake/JSON_Skill_Tree_Creator)
+- __JSON_Skill_Tree_Creator__ -> Application takes in FFXVI skill tree and outputs it as a diagram. Was made as a tech demo to convert JSON into a skill tree.
+    [![JSON_Skill_Tree_Creator](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=JSON_Skill_Tree_Creator\&theme=github_dark)](https://github.com/Akane-Nishiwake/JSON_Skill_Tree_Creator)
 
   
 ## Connect 
