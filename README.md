@@ -9,7 +9,7 @@
 - Languages: C++, C#, SQL, Java, Python, HTML
 - Version Control System Tools: GitHub, Cmd Git 
 - Project Management Tools: Codecks, Atlassian (Jira | Trello)
-- Programming Tools: Visual Studio (Code | Community | Enterprise), Jetbrains (PyCharm | DataGrip), MySQL Workbench
+- Programming Tools: Visual Studio (Code | Community | Enterprise), Jetbrains (IntelliJ IDEA), MySQL Workbench
 - Other Interests: Gaming, Reading, Watching Movies, GPOSING in FFXIV
 
 
