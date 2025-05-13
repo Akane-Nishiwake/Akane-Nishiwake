@@ -25,6 +25,9 @@
 
   [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Akane-Nishiwake.github.io\&theme=github_dark)](https://github.com/Akane-Nishiwake/Akane-Nishiwake.github.io)
 
+-__JSON_Skill_Tree_Creator__ -> Application takes in FFXVI skill tree and outputs it as a diagram. Was made as a tech demo to convert JSON into a skill tree. 
+  [![JSON_Skill_Tree_Creator](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=JSON_Skill_Tree_Creator\&theme=github_dark)](https://github.com/Akane-Nishiwake/JSON_Skill_Tree_Creator)
+
   
 ## Connect 
 - Portfolio Carrd : https://ajaygitomer.carrd.co
