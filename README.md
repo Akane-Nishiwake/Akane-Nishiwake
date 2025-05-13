@@ -2,6 +2,8 @@
 ## About Me 
 🚀 Software Engineer | 🎮 Game Developer | 🖥️ C++ & C# User | 🌱 Teacher
 
+## Connect 
+- LinkedIn : https://www.linkedin.com/in/ajaygitomer/
 
 ## Tech Skills
 - Languages: C++, C#, SQL, Java, Python, HTML
@@ -30,10 +32,6 @@
   
     [![Skill_Tree_Creator_V2](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=Skill_Tree_Creator_V2\&theme=github_dark)](https://github.com/Akane-Nishiwake/Skill_Tree_Creator_V2)
 
-  
-## Connect 
-- Portfolio Carrd : https://ajaygitomer.carrd.co
-- LinkedIn : https://www.linkedin.com/in/ajaygitomer/
 
 
 ## Top Languages  
