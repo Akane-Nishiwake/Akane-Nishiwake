@@ -39,7 +39,7 @@
 
 
 ## GitHub Stats  
-  - ![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&theme=github_dark\&hide_rank=true\&show_icons=true\&hide=prs_merged,prs_merged_percentage) 
+  - ![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&theme=github_dark\&hide_rank=true\&show_icons=true\&hide=stars,conrtibutions) 
 
 
 <!--
