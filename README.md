@@ -43,6 +43,8 @@
   - ![Amara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akane-Nishiwake\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=stars,conrtibutions,issues,prs,prs_merged) 
 
 
+
+stats created with https://github.com/anuraghazra/github-readme-stats
 <!--
 **Akane-Nishiwake/Akane-Nishiwake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
