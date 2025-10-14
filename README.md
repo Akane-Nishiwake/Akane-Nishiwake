@@ -15,8 +15,7 @@
 
 
 ## Current Project
-- __Kiss Kiss: Fall in Love__ -> Visual Novel built in the Ren'Py with a small start up company : https://anromedaanonymous.itch.io/kiss-kiss-fall-in-love
-  - Private Repository
+- 
   
 
 ## Projects Completed 2025
